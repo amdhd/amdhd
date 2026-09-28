@@ -11,12 +11,11 @@ class Amad:
         return "Cloud infrastructure that solves real business problems."
 ```
  
-#### I'm a Computer Science graduate building at the intersection of cloud infrastructure and AI engineering. I have about a year of hands-on AWS work spanning Terraform-provisioned CI/CD pipelines, AI agent platforms, and data-heavy SaaS. Before tech, I spent four years in growth marketing and KOL operations, so I care about how systems solve real business problems, not just how they're built.
+#### 💫 About Me:
+#### I'm a Cloud & AI Engineer based in Kuala Lumpur, and I design and ship AI systems on AWS. I have about 2 years of hands-on AWS work spanning AI agent platforms, Terraform-provisioned CI/CD pipelines, and data-heavy SaaS. Before tech, I spent four years in growth marketing and partnership operations, so I care about how systems solve real business problems, not just how they're built. I'm AWS Solutions Architect Associate certified, right now I'm working on an AML investigation copilot that pairs graph neural networks with LangGraph agents, and I'm exploring AWS Bedrock AgentCore.
  
 ---
-
-#### 💫 About Me:
-#### Hi, I'm Amad 👋<br><br>I'm a Computer Science graduate based in Kuala Lumpur, building at the intersection of cloud infrastructure and AI engineering. <br><br>I'm AWS Solutions Architect Associate certified, with about a year of hands-on AWS work spanning Terraform-provisioned CI/CD pipelines, AI agent platforms, and data-heavy SaaS. <br><br>Before tech, I spent four years in growth marketing and KOL operations at PayerMax, so I care about how systems solve real business problems, not just how they're built. <br><br>Right now I'm working on an AML investigation copilot that pairs graph neural networks with LangGraph agents, and I'm exploring AWS Bedrock AgentCore. <br><br>🌐 [ahmadhadi.vercel.app](https://ahmadhadi.vercel.app)
+ <br><br>🌐 [ahmadhadi.vercel.app](https://ahmadhadi.vercel.app)
 
 
 ### 🌐 Socials:
