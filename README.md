@@ -8,17 +8,14 @@ class Amad:
         self.cert  = "AWS Solutions Architect Associate"
  
     def mission(self) -> str:
-        return "Cloud infrastructure that solves real business problems."
+        return "Cloud infrastructure that solves real business problems to increase revenue."
 ```
  
 #### 💫 About Me:
-#### I'm a Cloud & AI Engineer based in Kuala Lumpur, and I design and ship AI systems on AWS. I have about 2 years of hands-on AWS work spanning AI agent platforms, Terraform-provisioned CI/CD pipelines, and data-heavy SaaS. Before tech, I spent four years in growth marketing and partnership operations, so I care about how systems solve real business problems, not just how they're built. I'm AWS Solutions Architect Associate certified, right now I'm working on an AML investigation copilot that pairs graph neural networks with LangGraph agents, and I'm exploring AWS Bedrock AgentCore.
+I'm a Cloud & AI Engineer based in Kuala Lumpur, and I design and ship AI systems on AWS. I have about 2 years of hands-on AWS work spanning AI agent platforms, Terraform-provisioned CI/CD pipelines, and data-heavy SaaS. Before tech, I spent four years in growth marketing and partnership operations, so I care about how systems solve real business problems, not just how they're built. I'm AWS Solutions Architect Associate certified, right now I'm working on an AML investigation copilot that pairs graph neural networks with LangGraph agents, and I'm exploring AWS Bedrock AgentCore.
  
 ---
- <br><br>🌐 [ahmadhadi.vercel.app](https://ahmadhadi.vercel.app)
-
-
-### 🌐 Socials:
+### 🌐 Contact:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadhadi0202@gmail.com) 
 
 ## 💻 Tech Stack:
